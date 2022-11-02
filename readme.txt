@@ -1,2 +1,2 @@
 My brain might explode
-git status
+Keep on keeping on
